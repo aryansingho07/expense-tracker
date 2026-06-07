@@ -635,7 +635,7 @@ function OnboardingName({ onNext }) {
           style={{ display: "flex", flexDirection: "column", gap: 12, marginTop: 4 }}>
           <div className="form-field">
             <label className="field-label">What's your name?</label>
-            <input type="text" className="field-input" placeholder="e.g. Dheeraj"
+            <input type="text" className="field-input" placeholder="e.g. Aryan Singh"
               value={name} onChange={e => setName(e.target.value)} autoFocus
               style={{ height: 46, fontSize: 15 }} />
           </div>
