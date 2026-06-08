@@ -4,7 +4,7 @@
 
 Mini Expense Tracker is the expense-tracking exercise: a small full-stack app for logging personal expenses, organizing them by category, tracking monthly budgets, reviewing spending charts, and exporting transaction data. The frontend is a React dashboard, and the backend is an Express API that persists expenses and budgets to a local JSON file.
 
-## Live Demo Links
+## Live Demo Links:https://expense-tracker-five-xi-93.vercel.app/
 
 - Deployed backend API: https://expense-tracker-aiaf.onrender.com/api
 - Health check: https://expense-tracker-aiaf.onrender.com/api/health
